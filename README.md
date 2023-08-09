@@ -23,6 +23,6 @@ Arguments:
 
 There are example files:
 - `buildInfoPattern.h` is an example of the source file
-- `buildNumber.tx  t` is an auto generated text file with the current build number
+- `buildNumber.txt` is an auto generated text file with the current build number
 - `buildInfoResult.h` is the result file genereated from pattern
 
